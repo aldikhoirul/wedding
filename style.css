@@ -381,7 +381,7 @@ body {
 }
 
 /* Mobile Phone */
-@media (max-with: 576px) {
+@media (max-width: 576px) {
   html {
     font-size: 60%;
   }
